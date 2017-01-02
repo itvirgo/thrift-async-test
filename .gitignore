@@ -1,0 +1,7 @@
+# cmake related
+/build/
+# vim related
+*.swp
+*.vim
+# cscope
+cscope.out

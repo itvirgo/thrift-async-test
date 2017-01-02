@@ -1,0 +1,7 @@
+#ifndef RPC_CONFIG_H
+#define RPC_CONFIG_H
+
+#define RPC1_PORT @RPC1_PORT@
+#define RPC2_PORT @RPC2_PORT@
+
+#endif
