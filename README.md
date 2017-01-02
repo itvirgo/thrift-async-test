@@ -48,3 +48,10 @@ $ ./client stop
 Client::stop
 ClientServer ack_stop 2
 ```
+
+## Some references
+
+The following sites inspired me on this subject.
+
+- <http://joelpm.com/2009/04/03/thrift-bidirectional-async-rpc.html>
+- <https://github.com/JoelPM/BidiThrift>
